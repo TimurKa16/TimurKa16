@@ -16,4 +16,11 @@ In parallel I'm learning HTML, CSS and Javascript to understand my future fronte
 
 Well, my dream is to become a teamlead fullstack developer.
 
+Here I create my portfolio to show my coding style to the world.
+I post the most (not all) interesting projects I have developed.
+There are a great number of mistakes (not appropriate tools, code repetition and even disguisting naming) because I post the projects not correcting them, 
+as they were written 3-4 years ago.
+Thus, I want to show to the world: how I grew as developer. And I desire to grow further.
+
+While I post projects, I describe mistakes from the point of view of today's Timur and discuss how I would do it today.
 
